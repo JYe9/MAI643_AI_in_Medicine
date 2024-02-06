@@ -2,26 +2,24 @@
 
 ## Project Assignment for UCY MAI643 Artificial Intelligence in Medicine
 
-[Notebook](https://www.kaggle.com/code/kristianye/mai643-cervical-cancer-classification) for the Project Assignment 1
-
 ### Deliverable 1: Brief problem description [20%]
 
-- [ ] **Project Title**
-- [ ] **Brief description of the problem**
+- [x] **Project Title**
+- [x] **Brief description of the problem**
   - Description of the medical domain and the problem (2-3 paragraphs)
-- [ ] **Database/dataset description**
+- [x] **Database/dataset description**
   - As provided in the given link and cited papers
-- [ ] **References**
+- [x] **References**
   - 5-10 references in IEEE format ([IEEE Reference Guide](https://ieeeauthorcenter.ieee.org/wp-content/uploads/IEEE-Reference-Guide.pdf))
 
 ### Deliverable 2: Explore the data [25%]
 
-- [ ] **Project Title**
+- [x] **Project Title**
 - [ ] **Data understanding**
   - % of missing data, identification/understanding of features, #classes, imbalanced data (tables, graphs, or short description)
-- [ ] **Data pre-processing steps followed**
+- [x] **Data pre-processing steps followed**
   - Data cleaning, encoding, scaling, feature selection, dimensionality reduction, imbalanced data handling
-- [ ] **Results from the data pre-processing**
+- [x] **Results from the data pre-processing**
   - List of selected features, % of records from each class
 - [ ] **Algorithms/methods to be used**
   - Provide two potential machine learning algorithms to investigate
