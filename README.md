@@ -15,13 +15,13 @@
 ### Deliverable 2: Explore the data [25%]
 
 - [x] **Project Title**
-- [ ] **Data understanding**
+- [x] **Data understanding**
   - % of missing data, identification/understanding of features, #classes, imbalanced data (tables, graphs, or short description)
 - [x] **Data pre-processing steps followed**
   - Data cleaning, encoding, scaling, feature selection, dimensionality reduction, imbalanced data handling
 - [x] **Results from the data pre-processing**
   - List of selected features, % of records from each class
-- [ ] **Algorithms/methods to be used**
+- [x] **Algorithms/methods to be used**
   - Provide two potential machine learning algorithms to investigate
 
 ### Deliverable 3: Model the data [25%]
