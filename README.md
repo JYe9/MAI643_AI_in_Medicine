@@ -59,3 +59,14 @@
   - Point out the process/techniques used for data cleaning and development of classification models
   - Presentation of the results in tables and comparison with other works (use tables/graphs)
   - Interpretation of the results to medical experts (i.e., doctors, nurses, oncologists...)
+
+#### Create the Conda Environment for the notebook
+
+You can recreate the environment using the following command:
+
+```
+conda env create -f environment.yml
+```
+
+
+
