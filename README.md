@@ -26,10 +26,12 @@
 
 ### Deliverable 3: Model the data [25%]
 
-- [ ] **Project Title**
+- [x] **Project Title**
+- [ ] Any changes on Deliverable 2 (if not, just start directly with 3.)
 - [ ] **Methodology**
   - 2.1 Training/Evaluation Data Sets – Splitting method
-  - 2.2 Description of the selected two models (implementation details and assumptions e.g., KNN, logistic regression, decision trees, random forest, Naïve Bayes, SVM, ensemble methods, etc.)
+  - 2.2 Description of the selected two models (implementation details i.e. parameters to use in each model, references describing the classifiers that you use (optional))
+  - 2.3 If any of these classifiers have been applied in other works applied on the same dataset (see Deliverable 1), specify it here
   - 2.3 Model Evaluation Metrics Description (Accuracy, Sensitivity or Recall, Specificity, Precision, F1 Score, and any other measure needed including any imbalanced evaluation metrics) (to be reported for both the training and testing sets)
 - [ ] **Results from both models**
   - Tables/figures – not necessarily to be complete at this stage
