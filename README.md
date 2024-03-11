@@ -9,7 +9,7 @@ We used Python for the development of the system and employed various machine le
 We split the development of the system into three main phases. The analysis phase, the preprocessing phase and the development phase.
 
 ### Preliminary Analysis
-Durinf the analysis phases we explored the dataset and employed various visualization techniques to gain a better understanding of it. The code used for this phase is contained in the `preliminary-analysis.ipynb` file.  
+During the analysis phase, we explored the dataset and employed various visualization techniques to gain a better understanding of it. The code used for this phase is contained in the `preliminary-analysis.ipynb` file.  
 
 ### Preprocessing
 Next, we preprocessed the dataset. During this phase, we handled the missing values within the dataset, removed duplicate rows, excluded certain features based on their variance and addressed the outliers in each feature.
