@@ -38,7 +38,7 @@
 
 ### Deliverable 4: Communicate and Validate the Results [25%]
 
-- [ ] **Project Title**
+- [x] **Project Title**
 - [ ] **Final Report**
   - Include final parts of Deliverables 1-3
   - Results
